@@ -8,9 +8,13 @@ The application allows users to enter a restaurant review and receive an instant
 
 ## Application Preview
 
-![DineInsight Application](Screenshot 2026-11-03 201257.png)
+### Main Interface
 
-![DineInsight Application](Screenshot 2026-11-03 201340.png)
+![DineInsight Main Interface](<Screenshot 2026-11-03 201257.png>)
+
+### Sentiment Prediction
+
+![DineInsight Sentiment Prediction](<Screenshot 2026-11-03 201340.png>)
 ## Objectives
 
 - Analyze restaurant reviews to identify customer opinions.
