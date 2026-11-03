@@ -6,6 +6,11 @@ DineInsight is an NLP-based application that analyzes restaurant reviews and cla
 
 The application allows users to enter a restaurant review and receive an instant sentiment prediction through an interactive Streamlit interface.
 
+## Application Preview
+
+![DineInsight Application](Screenshot 2026-11-03 201257.png)
+
+![DineInsight Application](Screenshot 2026-11-03 201340.png)
 ## Objectives
 
 - Analyze restaurant reviews to identify customer opinions.
