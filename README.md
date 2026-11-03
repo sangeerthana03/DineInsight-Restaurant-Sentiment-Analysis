@@ -49,6 +49,8 @@ DineInsight/
 │   └── nlp_model.pkl
 ├── app.py
 ├── data.ipynb
+├── Screenshot 2026-11-03 201257.png
+├── Screenshot 2026-11-03 201340.png
 ├── requirements.txt
 ├── .gitignore
 └── README.md
