@@ -10,11 +10,11 @@ The application allows users to enter a restaurant review and receive an instant
 
 
 
-![DineInsight Main Interface](<Screenshot 2026-11-03 201257.png>)
+![DineInsight Main Interface](<screenshots/Screenshot 2026-11-03 201257.png>)
 
 
 
-![DineInsight Sentiment Prediction](<Screenshot 2026-11-03 201340.png>)
+![DineInsight Sentiment Prediction](<screenshots/Screenshot 2026-11-03 201340.png>)
 
 ## Objectives
 
